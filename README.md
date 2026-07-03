@@ -1,5 +1,8 @@
 # Olist E-Commerce Sales Analysis: Power BI Portfolio Project
 
+**Author:** Karen Wu
+**Date:** June 29, 2026
+
 ## Overview
 Analyzing ~100K Brazilian e-commerce orders (2016–2018) across the Olist 
 marketplace to understand sales trends, geographic concentration and the 
