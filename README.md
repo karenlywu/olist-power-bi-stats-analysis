@@ -66,7 +66,7 @@ was purchased.
 |---|---|
 | Sales Overview | ![](docs/screenshots/p1_sales_overview.png) |
 | Geography | ![](docs/screenshots/p2_geography.png) |
-| Delivery & Satisfaction | ![](docs/screenshots/p3_delivery_satisfaction.png) |
+| Delivery & Satisfaction | ![](docs/screenshots/p3_delivery_and_satisfaction.png) |
 | Category Detail (drillthrough) | ![](docs/screenshots/p4_category_detail.png) |
 
 ## Tools
