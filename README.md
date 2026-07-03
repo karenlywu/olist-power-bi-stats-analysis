@@ -1,6 +1,6 @@
 # Olist E-Commerce Sales Analysis: Power BI Portfolio Project
 
-**Author:** Karen Wu
+**Author:** Karen Wu<br>
 **Date:** June 29, 2026
 
 ## Overview
