@@ -64,10 +64,10 @@ was purchased.
 ## Report Pages
 | Page | Screenshot |
 |---|---|
-| Sales Overview | ![](docs/screenshots/p1-sales-overview.png) |
-| Geography | ![](docs/screenshots/p2-geography.png) |
-| Delivery & Satisfaction | ![](docs/screenshots/p3-delivery-satisfaction.png) |
-| Category Detail (drillthrough) | ![](docs/screenshots/p4-category-detail.png) |
+| Sales Overview | ![](docs/screenshots/p1_sales_overview.png) |
+| Geography | ![](docs/screenshots/p2_geography.png) |
+| Delivery & Satisfaction | ![](docs/screenshots/p3_delivery_satisfaction.png) |
+| Category Detail (drillthrough) | ![](docs/screenshots/p4_category_detail.png) |
 
 ## Tools
 Power BI Desktop, Power Query (M), DAX, Power BI Service (publish + RLS),  
