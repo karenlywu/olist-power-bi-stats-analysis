@@ -53,10 +53,7 @@ Olist-specific factors.
 Delivery timing is the strongest predictor of customer satisfaction in the 
 data. Orders delivered late average 2.26 stars vs. 4.21 stars for on-time 
 orders (Welch's t-test, p < 0.001, Cohen's d = 1.38; a large practical 
-effect). OLS regression confirms this holds after controlling for price and 
-freight cost: each additional day of delay predicts a -0.032 point drop in 
-review score (p < 0.001), while price shows a near-zero coefficient 
-(0.0001) confirming it is not a meaningful driver of satisfaction.
+effect).
 
 Product category explains a statistically significant but small share of 
 review score variance (ANOVA F = 14.80, p < 0.001, eta_squared = 0.009); category 
