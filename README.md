@@ -61,6 +61,16 @@ membership accounts for less than 1% of variation in ratings, suggesting
 that satisfaction is driven more by operational execution than by what 
 was purchased.
 
+## Python Analysis
+See [`notebooks/item_level_analysis.ipynb`](notebooks/item_level_analysis.ipynb)
+for the full statistical analysis underpinning the dashboard findings.
+The notebook covers:
+- Distribution and outlier analysis (price, review score, delivery delay)
+- Pearson correlation and heatmap across numeric features
+- Welch's t-test with Cohen's d (late vs. on-time delivery)
+- One-way ANOVA with eta-squared effect size (review score by category)
+- OLS multiple linear regression with interpretation notes
+
 ## Report Pages
 | Page | Screenshot |
 |---|---|
@@ -85,4 +95,7 @@ Python (pandas, statsmodels, scipy) for statistical analysis at the item level.
 - **Static dataset:** Olist data covers 2016–2018 only. Findings reflect 
   Brazilian e-commerce patterns from that period and may not generalize 
   to current market conditions.
-
+- **OLS on ordinal outcome:** review score is a 1–5 discrete scale.
+  Ordered logistic regression would be more statistically appropriate,
+  though OLS coefficient estimates are directionally reliable at this
+  sample size.
