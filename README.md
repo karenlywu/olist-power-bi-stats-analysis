@@ -17,7 +17,7 @@ Olist Brazilian E-Commerce Public Dataset (Kaggle): 9 relational CSVs,
 [Kaggle dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Star Schema
-![Model View](docs/screenshots/model-view-star-schema.png)
+![Model View](docs/screenshots/model_view_star_schema.png)
 
 Fact table: `order_items` (line-item grain, one row per product per order). 
 Dimensions: `orders`, `customers`, `products`, `sellers`, `geolocation`, 
